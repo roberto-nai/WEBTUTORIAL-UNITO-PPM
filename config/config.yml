@@ -1,0 +1,8 @@
+# config.yml
+
+LOG_DIR: data_log             # directory with input data (the event log)
+PREFIX_DIR: data_prefix       # directory with prefix data
+ENCODING_DIR: data_encoding   # directory with encoded data
+ML_DIR: data_ml               # directory with ML data results
+CSV_SEP: ','
+ML_RES_FILE: ml_MODEL_results.csv   # results from ML (replace MODEL with model name)
